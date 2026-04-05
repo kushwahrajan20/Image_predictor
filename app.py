@@ -132,7 +132,7 @@ div[data-testid="stFileUploader"] {
 
 # ── Constants ─────────────────────────────────────────────────────────────────
 IMG_SIZE = (224, 224)
-MODEL_PATH = "./dualStreamModel2_ep9.keras"   # ← adjust path as needed
+MODEL_PATH = "./model/dualStreamModel2_ep9.keras"   # ← adjust path as needed
 
 # ── FFT layer (must match training) ──────────────────────────────────────────
 @keras.saving.register_keras_serializable()
