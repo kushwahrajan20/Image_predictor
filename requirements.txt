@@ -1,0 +1,6 @@
+streamlit>=1.35.0
+tensorflow==2.19.0
+keras==3.13.2
+pillow==10.4.0
+requests==2.32.4
+numpy==2.0.2
