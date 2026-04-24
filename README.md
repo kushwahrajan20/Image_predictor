@@ -192,7 +192,7 @@ ai-vs-real-image-detection/
 
 | Name | Institute | Email |
 |---|---|---|
-| Rajan Kushwaha | Dept. of Electronics Engineering, SVNIT Surat | u23ec051@eced.svnit.ac.in |
+| Rajan Kushwah | Dept. of Electronics Engineering, SVNIT Surat | u23ec051@eced.svnit.ac.in |
 | Dhruvil Mali | Dept. of Electronics Engineering, SVNIT Surat | u23ec062@eced.svnit.ac.in |
 | Dayshaun Kakadiya | Dept. of Electronics Engineering, SVNIT Surat | u23ec064@eced.svnit.ac.in |
 
