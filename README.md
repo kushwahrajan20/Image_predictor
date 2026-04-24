@@ -43,7 +43,7 @@ Sigmoid Output → {AI Image, Real Image}
 
 | Full Dual-Stream Architecture | Sub-modules (Residual & SE Blocks) |
 |---|---|
-| ![Architecture](image1.png) | ![Sub-modules](image2.png) |
+| ![Architecture](Images/architecture1.png) | ![Sub-modules](Images/architecture2.png) |
 
 ---
 
@@ -72,11 +72,11 @@ Sigmoid Output → {AI Image, Real Image}
 
 | Baseline Model | Dual-Stream FFT Model |
 |---|---|
-| ![Baseline](baseline_performance.jpg) | ![Dual Stream](dualStream_performance.jpg) |
+| ![Baseline](Images/baseline_performance.jpg) | ![Dual Stream](Images/dualStream_performance.jpg) |
 
 ### Confusion Matrix (Dual-Stream Model)
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](Images/confusion_matrix.png)
 
 | | Predicted: Real | Predicted: AI |
 |---|---|---|
